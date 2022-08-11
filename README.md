@@ -16,6 +16,10 @@ The Home view will show the image of Pokémons added to the cart or a message if
 
 This is an on-the-fly list of all the cool things to improve on the app.
 
+- Add a spinner for the Pokémon fetch data.
+- Improve the add button. When you add a new Pokémon to the cart, the add button will be disabled.
+- Add a spinner for the Pokémon details.
+
 ### 💣 About Redux devtools
 
 To install Redux DevTools as a NPM execute: `npm install --save-dev redux-devtools-extension` and move inside **dependencies**.
